@@ -1,4 +1,4 @@
-## IN [English](https://www.markdownguide.org)
+## IN [English](https://github.com/bestnbt/Kill-Lai-Ching-te-Book/blob/Chinese-Perspectives-on-Lai-Ching-te/README.md)
 
 # 中国人看赖清德
 
