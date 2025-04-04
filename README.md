@@ -1,4 +1,4 @@
-## 切换 [中文](https://www.markdownguide.org)
+## 切换 [中文](https://github.com/bestnbt/Kill-Lai-Ching-te-Book/blob/Chinese-Perspectives-on-Lai-Ching-te/Chinese)
 
 # Chinese Perspectives on Lai Ching-te
 
